@@ -14,19 +14,25 @@ It includes:
 
 ---
 
+## 🎯 Objective
+
+To analyze India’s digital payment ecosystem using the PhonePe Pulse dataset by performing EDA and SQL-based data exploration to uncover patterns in transaction behavior across states and time periods.
+
+---
+
 ## 📁 Repository Structure
 ```
 digital_payment_analysis/
 │
 ├── Datasets/
-│ ├── agg_trans.csv
-│ └── agg_user.csv
-│ └── map_trans.csv
-│ └── map_user.csv
-│ └── top_trans_dist.csv
-│ └── top_trans_pin.csv
-│ └── top_user_dist.csv
-│ └── top_user_pin.csv
+│   ├── agg_trans.csv
+│   ├── agg_user.csv
+│   ├── map_trans.csv
+│   ├── map_user.csv
+│   ├── top_trans_dist.csv
+│   ├── top_trans_pin.csv
+│   ├── top_user_dist.csv
+│   └── top_user_pin.csv
 │
 ├── Notebooks/
 │ ├── PhonePe_Pulse_EDA.ipynb
@@ -84,6 +90,24 @@ digital_payment_analysis/
   ```bash
   pip install -r requirements.txt
   ```
+
+### 🏁 Future Enhancements
+
+- Add Power BI or Tableau visualization layer
+- Implement ML-based forecasting for transaction trends
+- Enable live API data ingestion
+- Deploy Streamlit app on Streamlit Cloud or Render
+
+---
+### 🧑‍💻 Author
+
+**Sujata Sinhababu**  
+🎓 B.Tech in Computer Science & Engineering  
+💼 Aspiring Data Scientist | Python | SQL | Machine Learning | Data Visualization  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sujata-sinhababu-041705s/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/sujata1712)
+
+---
 
  ## 🪪 License
 
