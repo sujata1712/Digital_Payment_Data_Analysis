@@ -15,7 +15,7 @@ It includes:
 ---
 
 ## 📁 Repository Structure
-
+```
 digital_payment_analysis/
 │
 ├── Datasets/
@@ -34,7 +34,7 @@ digital_payment_analysis/
 │
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🚀 Features
