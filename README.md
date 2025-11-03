@@ -29,7 +29,7 @@ digital_payment_analysis/
 │ └── top_user_pin.csv
 │
 ├── Notebooks/
-│ ├── PhonePe_EDA.ipynb
+│ ├── PhonePe_Pulse_EDA.ipynb
 │ └── PhonePe_Pulse_SQL.ipynb
 │
 ├── requirements.txt
